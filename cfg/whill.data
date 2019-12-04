@@ -1,0 +1,5 @@
+classes= 1
+train  = cfg/whill-train.txt
+valid  = cfg/whill-test.txt
+names = data/whill.names
+backup = backup

@@ -1,0 +1,1 @@
+/content/darknet/data/batch/batch3.jpg
