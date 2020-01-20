@@ -1,0 +1,12 @@
+/content/darknet/data/azi/iwashi11.jpg
+/content/darknet/data/azi/iso7.jpg
+/content/darknet/data/azi/taka12.jpg
+/content/darknet/data/azi/atarime4.jpg
+/content/darknet/data/azi/shirabe4.jpg
+/content/darknet/data/azi/taka5.jpg
+/content/darknet/data/azi/taka15.jpg
+/content/darknet/data/azi/ebimame6.jpg
+/content/darknet/data/azi/okoge6.jpg
+/content/darknet/data/azi/iwashi13.jpg
+/content/darknet/data/azi/nori13.jpg
+/content/darknet/data/azi/iwashi3.jpg
