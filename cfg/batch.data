@@ -1,5 +1,5 @@
-classes= 8
-train  = cfg/azi-train.txt
-valid  = cfg/azi-test.txt
-names = data/azi.names
+classes= 2
+train  = cfg/batch-train.txt
+valid  = cfg/batch-test.txt
+names = data/batch.names
 backup = backup
