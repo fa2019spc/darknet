@@ -1,0 +1,5 @@
+classes= 8
+train  = cfg/azi-train.txt
+valid  = cfg/azi-test.txt
+names = data/azi.names
+backup = backup
