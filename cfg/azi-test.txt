@@ -5,9 +5,9 @@
 /content/darknet/data/azi/ebiarare19.jpg
 /content/darknet/data/azi/ebimame1.jpg
 /content/darknet/data/azi/iwashi18.jpg
-/content/darknet/data/azi/atarime3.jpg
-/content/darknet/data/azi/nori9.jpg
-/content/darknet/data/azi/ebimame10.jpg
-/content/darknet/data/azi/ebiarare7.jpg
-/content/darknet/data/azi/iwashi15.jpg
-/content/darknet/data/azi/atarime18.jpg
+/content/darknet/data/azi/nori3.jpg
+/content/darknet/data/azi/taka7.jpg
+/content/darknet/data/azi/atarime17.jpg
+/content/darknet/data/azi/atarime6.jpg
+/content/darknet/data/azi/ebiarare4.jpg
+/content/darknet/data/azi/iso2.jpg
