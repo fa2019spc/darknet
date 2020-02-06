@@ -1,0 +1,5 @@
+classes= 2
+train  = cfg/demo-train.txt
+valid  = cfg/demo-test.txt
+names = data/demo.names
+backup = backup
