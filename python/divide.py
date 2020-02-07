@@ -5,15 +5,15 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 
 print(current_dir)
 
-current_dir = '../data/test11'
-g_colab_full_path='/content/darknet/data/test11'
+current_dir = '../data/test12'
+g_colab_full_path='/content/darknet/data/test12'
 
 # Percentage of images to be used for the test set
 percentage_test = 10;
 
 # Create and/or truncate train.txt and test.txt
-file_train = open('test11-train.txt', 'w')  
-file_test = open('test11-test.txt', 'w')# Populate train.txt and test.txt
+file_train = open('test12-train.txt', 'w')  
+file_test = open('test12-test.txt', 'w')# Populate train.txt and test.txt
 counter = 1  
 index_test = round(100 / percentage_test)  
 for pathAndFilename in glob.iglob(os.path.join(current_dir, "*.jpg")):  
