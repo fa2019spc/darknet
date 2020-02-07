@@ -1,0 +1,1 @@
+/content/darknet/data/test1/batch126.jpg

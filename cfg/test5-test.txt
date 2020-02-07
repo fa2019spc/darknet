@@ -1,0 +1,3 @@
+/content/darknet/data/test5/batch55.jpg
+/content/darknet/data/test5/batch46.jpg
+/content/darknet/data/test5/batch44.jpg

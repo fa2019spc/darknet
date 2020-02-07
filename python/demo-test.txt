@@ -1,6 +1,0 @@
-/content/darknet/data/demo/batch112.jpg
-/content/darknet/data/demo/batch13.jpg
-/content/darknet/data/demo/batch414.jpg
-/content/darknet/data/demo/batch416.jpg
-/content/darknet/data/demo/batch27.jpg
-/content/darknet/data/demo/batch119.jpg
