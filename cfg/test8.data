@@ -1,5 +1,5 @@
-classes= 3
+classes= 2
 train  = cfg/test8-train.txt
 valid  = cfg/test8-test.txt
-names = data/test2.names
+names = data/test3.names
 backup = backup
